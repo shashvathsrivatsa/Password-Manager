@@ -1,0 +1,14 @@
+
+    // let mut block = GenericArray::from([17_u8; 16]);
+
+    // cipher.encrypt_block(&mut block);
+    // println!("{:?}", block);
+
+    // cipher.decrypt_block(&mut block);
+    // println!("{:?}", block);
+
+
+
+
+    // let decrypted_password: String = decrypt(encrypted_password);
+    // println!("Decrypted: {}", decrypted_password);
